@@ -6,8 +6,8 @@ Welcome to my Power BI Portfolio! Here, you'll find a collection of my personal 
 
 ## 🚀 **Projects**
 
-### 1. [Louvre Museum Sentiment Analysis](./Sentiment_Analysis_Dashboard)
-### 1. [Louvre Museum Sentiment Analysis](./sentiment_analysis_dashboard)
+### 1. [Louvre Museum Sentiment Analysis](./Sentiment_Analysis_Dashboard/)
+### 1. [Louvre Museum Sentiment Analysis](./sentiment_analysis_dashboard/)
 
 A sentiment analysis dashboard that visualizes customer reviews of the Louvre Museum. The dashboard highlights sentiment distribution, review trends, and common themes.
 
