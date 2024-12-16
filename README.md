@@ -21,10 +21,5 @@ A sentiment analysis dashboard that visualizes customer reviews of the Louvre Mu
 
 ---
 
-### 2. [Other Project Title](./Other-Project/README.md)
-
-Brief description of your second project.
-
----
 
 **Thank you for visiting my portfolio!** 🚀
