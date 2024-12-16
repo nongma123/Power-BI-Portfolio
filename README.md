@@ -26,11 +26,4 @@ Brief description of your second project.
 
 ---
 
-## 📫 **Contact**
-
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email](mailto:youremail@example.com)
-
----
-
 **Thank you for visiting my portfolio!** 🚀
